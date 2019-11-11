@@ -1,7 +1,3 @@
 # bigcat
-bigcat
-test
-zhouqian
-bigcat
-zhouqian
-test
+
+uint test
